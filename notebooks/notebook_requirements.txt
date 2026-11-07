@@ -1,0 +1,13 @@
+iamgeio
+joblib
+jupyter
+matplotlib
+numpy
+pacmap
+pandas
+piecewise-regression
+pillow
+scipy
+scikit-learn
+seaborn
+umap-learn
